@@ -1,7 +1,7 @@
 # Crud Client
 
 Para executar a api e o Frontend, primeiramente execute o comando:
-```npm install```
+```npm install``` em ambas as pastas.
 
 Para rodar a api entre na pasta e excute o comando:
 ```npm run dev```
